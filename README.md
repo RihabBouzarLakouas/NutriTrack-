@@ -20,3 +20,24 @@ L’application vise à :
 - Améliorer leur bien-être au quotidien.  
 
 Elle cherche également à **sensibiliser à l’importance d’un mode de vie sain** à travers une approche simple, interactive et accessible à tous.
+## 🧩 Fonctionnalités
+
+L’application **NutriTrack** propose plusieurs fonctionnalités permettant à l’utilisateur de suivre facilement son alimentation quotidienne. Voici les principales :
+
+### 🍎 1. Ajout des aliments
+Permet à l’utilisateur d’ajouter le nom de l’aliment consommé ainsi que sa valeur calorique (nombre de calories).
+
+### 🔢 2. Calcul automatique des calories quotidiennes
+Après l’ajout des aliments, l’application calcule automatiquement le total des calories consommées pendant la journée.
+
+### 📊 3. Affichage d’un résumé quotidien
+L’utilisateur peut consulter un rapport quotidien contenant le total des calories et la liste des aliments consommés.
+
+### 💻 4. Interface simple et facile à utiliser
+L’interface est conçue pour être claire, intuitive et accessible à tous.
+
+### ✏️ 5. Modification ou suppression des aliments
+L’utilisateur peut modifier ou supprimer un aliment ajouté en cas d’erreur ou de changement dans son régime alimentaire.
+
+### 🔒 6. Protection des données personnelles
+Les informations de l’utilisateur sont enregistrées de manière sécurisée afin de garantir la confidentialité des données
