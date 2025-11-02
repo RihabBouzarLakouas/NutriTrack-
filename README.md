@@ -41,3 +41,12 @@ L’utilisateur peut modifier ou supprimer un aliment ajouté en cas d’erreur 
 
 ### 🔒 6. Protection des données personnelles
 Les informations de l’utilisateur sont enregistrées de manière sécurisée afin de garantir la confidentialité des données
+## 🧠 Technologies utilisées
+
+Pour la réalisation de notre application **NutriTrack**, nous avons mis en œuvre plusieurs technologies complémentaires :
+
+- **HTML (HyperText Markup Language)** — utilisé pour créer la structure et le contenu principal des pages web.  
+- **CSS (Cascading Style Sheets)** — permet de styliser et personnaliser l’apparence de l’application (couleurs, mise en page, design).  
+- **JavaScript** — rend l’application dynamique et interactive, notamment pour le calcul automatique des calories et la gestion des données.  
+- **GitHub** — utilisé pour l’hébergement du projet et la collaboration entre les membres de l’équipe.  
+- **Visual Studio Code** — un environnement de développement moderne et pratique pour écrire, tester et organiser le code.
