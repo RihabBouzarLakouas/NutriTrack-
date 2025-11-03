@@ -50,3 +50,17 @@ Pour la réalisation de notre application **NutriTrack**, nous avons mis en œuv
 - **JavaScript** — rend l’application dynamique et interactive, notamment pour le calcul automatique des calories et la gestion des données.  
 - **GitHub** — utilisé pour l’hébergement du projet et la collaboration entre les membres de l’équipe.  
 - **Visual Studio Code** — un environnement de développement moderne et pratique pour écrire, tester et organiser le code.
+
+## Conclusion
+
+En conclusion, **NutriTrack** est une application utile pour toute personne désireuse de mieux comprendre et suivre son alimentation. Grâce à des outils interactifs et à une approche axée sur l'utilisateur, NutriTrack aide à atteindre des objectifs nutritionnels et de santé de manière simple et efficace. Nous prévoyons d'améliorer et d'étendre l'application pour offrir une expérience encore plus enrichissante à nos utilisateurs.
+
+## Membres du groupe 👩‍💻
+- Razi Rihab  
+- Youcefzine Chaïmae  
+- Bouzar Lakouas Rihab  
+- Boumediene Chaïma  
+
+---
+
+💬 *Projet réalisé dans le cadre du module Open Source.*
