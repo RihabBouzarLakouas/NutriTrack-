@@ -6,13 +6,20 @@ The project aims to raise awareness about the importance of good nutrition and t
 # Steps of Realization:
 
 Introduction
+
 Objective
+
 Features
-Technologies Used 
+
+Technologies Used
+
 conclusion 
 
 # Collaborators:
  Razi Rihab 
+ 
  Bouzar Lakouas Rihab 
+ 
  Boumediene chaima 
+ 
  Youcef ezzine chaimae
